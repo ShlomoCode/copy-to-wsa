@@ -1,0 +1,8 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\copyfiletowsa]
+@="העתק קובץ לאנדרואיד"
+
+[HKEY_CLASSES_ROOT\*\shell\copyfiletowsa\Command]
+@="C:\\Program Files\\Copy_file_to_wsa\\CopyToWsa.bat \"%1\""
+
